@@ -1,20 +1,3 @@
 hi
 arch btw
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
-(https://silverflag.net)
+Did I mention https://silverflag.net?
