@@ -14,7 +14,7 @@ If you would like to contact me, hit me up on:\
 
 <!-- end of the list, and lists are annoying! -->
  
- My current live projects: \ 
+ My current live projects:
  + [silverflag.net](https://silverflag.net/) (ofc) 
  + [linuxperks.com](https://linuxperks.com/) 
  + [pxl.lat](https://pxl.lat/)
