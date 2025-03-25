@@ -7,7 +7,7 @@ I am the main sysadmin and organizer of the SilverFlag, an open group of people 
 I work on whatever really interests me, several machine learning projects, and other projects that help my mission in SilverFlag (the distrobution of free information and technology).\
 I am an avid Linux enjoyer, ThinkPad enjoyer and all around enjoyer of computers.\
 \
-If you would like to contact me, hit me up on:\
+If you would like to contact me, hit me up on:
  + sysadmin@silverflag.net
  + @portablegenerator:matrix.org
  + Discord: silverflag.net (rarely checked but sure)
