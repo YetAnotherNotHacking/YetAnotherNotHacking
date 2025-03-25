@@ -8,11 +8,11 @@ I work on whatever really interests me, several machine learning projects, and o
 I am an avid Linux enjoyer, ThinkPad enjoyer and all around enjoyer of computers.\
 \
 If you would like to contact me, hit me up on:\
- + sysadmin@silverflag.net\
- + @portablegenerator:matrix.org\
- + Discord: silverflag.net (rarely checked but sure)\
+ + sysadmin@silverflag.net
+ + @portablegenerator:matrix.org
+ + Discord: silverflag.net (rarely checked but sure)
 \
 My current live projects: \ 
- + [silverflag.net](https://silverflag.net/) (ofc) \
- + [linuxperks.com](https://linuxperks.com/) \
+ + [silverflag.net](https://silverflag.net/) (ofc) 
+ + [linuxperks.com](https://linuxperks.com/) 
  + [pxl.lat](https://pxl.lat/)
