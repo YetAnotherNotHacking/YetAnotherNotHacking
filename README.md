@@ -12,7 +12,7 @@ If you would like to contact me, hit me up on:\
  + @portablegenerator:matrix.org
  + Discord: silverflag.net (rarely checked but sure)
 \
-My current live projects: \ 
+ - My current live projects: \ 
  + [silverflag.net](https://silverflag.net/) (ofc) 
  + [linuxperks.com](https://linuxperks.com/) 
  + [pxl.lat](https://pxl.lat/)
